@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Status](https://img.shields.io/badge/Status-Active%20Automation-success?style=for-the-badge) 
-![Focus](https://img.shields.io/badge/Focus-HR%20Strategy-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-GlobalNews%20StayInformed-blue?style=for-the-badge)
 
 # sg-globalnews-briefing-bot
 An automated Python assistant that curates premium HR insights and global news into a daily executive briefing. 
