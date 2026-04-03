@@ -1,0 +1,8 @@
+name: Daily News Check
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '30 4 * * *' # 8:30 AM UAE Time
+  workflow_dispatch:      # <--- ADD THIS LINE
